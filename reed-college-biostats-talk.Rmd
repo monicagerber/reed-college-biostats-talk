@@ -204,10 +204,10 @@ Also: computational biology, neuroscience, clincial trial design, risk analysis,
 # Career Paths
 
 .pull-left[
-* Academia `r emo::ji("right_arrow")` universities, research institutes (staff and faculty)
-* Industry `r emo::ji("right_arrow")` pharma, biotech, consulting, tech
-* Non-profit & Foundations `r emo::ji("right_arrow")` global health, granting organizations
-* Health care `r emo::ji("right_arrow")` Hospitals, insurance companies, community health centers
+* **Academia** `r emo::ji("right_arrow")` universities, research institutes (staff and faculty)
+* **Industry** `r emo::ji("right_arrow")` pharma, biotech, consulting, tech
+* **Non-profit & Foundations** `r emo::ji("right_arrow")` global health, granting organizations
+* **Health care** `r emo::ji("right_arrow")` Hospitals, insurance companies, community health centers
 * And if you decide to ditch more traditional biostatistics career paths, there are many routes that require data science skills.
 ]
 
