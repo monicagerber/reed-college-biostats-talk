@@ -208,7 +208,8 @@ Also: computational biology, neuroscience, clincial trial design, risk analysis,
 * **Industry** `r emo::ji("right_arrow")` pharma, biotech, consulting, tech
 * **Non-profit & Foundations** `r emo::ji("right_arrow")` global health, granting organizations
 * **Health care** `r emo::ji("right_arrow")` Hospitals, insurance companies, community health centers
-* And if you decide to ditch more traditional biostatistics career paths, there are many routes that require data science skills.
+* **Government** `r emo::ji("right_arrow")` CDC, NIH FDA, U.S Digital Service, local health departments
+* Many other routes that require data science skills.
 ]
 
 .pull-right[
