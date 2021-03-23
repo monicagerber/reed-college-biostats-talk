@@ -224,6 +224,69 @@ Photo by <a href="https://unsplash.com/@priscilladupreez?utm_source=unsplash&utm
 
 ---
 
+# Working at SCHARP
+
+```{r echo=FALSE, out.width="40%"}
+knitr::include_graphics("images/SCHARP_logo.jpg")
+```
+
+* Analysis to inform regimen dose and scheduling for Phase I clinical trials for **HIV vaccines**.
+* Collaborate with Johns Hopkins University and PATH to develop statistical methods for comparing candidate monoclonal antibodies for prevention of **malaria**.
+* Develop **pharmacokinetic models** to understand the distribution and elimination of broadly neutralizing antibodies in development for the passive prevention and treatment of HIV. 
+* Correlates analysis for non-human primate **schistosomiasis vaccine study**. 
+
+Previously:
+* Population mental health, pediatric obesity, community health program evaluation
+
+---
+
+.pull-left[
+
+### What people think I do 
+
+```{r echo=FALSE, out.width="90%"}
+knitr::include_graphics("images/numbers.jpg")
+```
+
+Model building and statistical testing
+
+Excel 
+
+Stare at numbers
+
+?
+
+  
+]
+
+
+.pull.right[
+
+### What I actually do
+
+```{r echo=FALSE, out.width="40%"}
+knitr::include_graphics("images/whiteboard.jpg")
+```
+
+Also data munging and EDA
+
+R, SQL, git/GitHub
+
+Software development 
+
+A lot of writing 
+
+
+]
+
+???
+
+Photo by <a href="https://unsplash.com/@kaleidico?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kaleidico</a> on <a href="/s/photos/collaboration?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Photo by <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mika Baumeister</a> on <a href="/s/photos/excel-sheets?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+---
+
 .pull-left[
 
 ## Pros `r emo::ji("thumbs_up")`
@@ -367,69 +430,6 @@ knitr::include_graphics("images/thesis-desk.png")
 * Ask the career office for help. 
 * Use the network you've built by talking to Reed alumni.
 * Summer programs: Universities offer more specialized summer programs (and scholarships), for example the [UW Summer Institutes](https://www.biostat.washington.edu/summerinstitutes). 
-
----
-
-# Working at SCHARP
-
-```{r echo=FALSE, out.width="40%"}
-knitr::include_graphics("images/SCHARP_logo.jpg")
-```
-
-* Analysis to inform regimen dose and scheduling for Phase I clinical trials for **HIV vaccines**.
-* Collaborate with Johns Hopkins University and PATH to develop statistical methods for comparing candidate monoclonal antibodies for prevention of **malaria**.
-* Develop **pharmacokinetic models** to understand the distribution and elimination of broadly neutralizing antibodies in development for the passive prevention and treatment of HIV. 
-* Correlates analysis for non-human primate **schistosomiasis vaccine study**. 
-
-Previously:
-* Population mental health, pediatric obesity, community health program evaluation
-
----
-
-.pull-left[
-
-### What people think I do 
-
-```{r echo=FALSE, out.width="90%"}
-knitr::include_graphics("images/numbers.jpg")
-```
-
-Model building and statistical testing
-
-Excel 
-
-Stare at numbers
-
-?
-
-  
-]
-
-
-.pull.right[
-
-### What I actually do
-
-```{r echo=FALSE, out.width="40%"}
-knitr::include_graphics("images/whiteboard.jpg")
-```
-
-Also data munging and EDA
-
-R, SQL, git/GitHub
-
-Software development 
-
-A lot of writing 
-
-
-]
-
-???
-
-Photo by <a href="https://unsplash.com/@kaleidico?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kaleidico</a> on <a href="/s/photos/collaboration?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-Photo by <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mika Baumeister</a> on <a href="/s/photos/excel-sheets?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ---
 
